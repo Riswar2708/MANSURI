@@ -30,3 +30,21 @@ Mudah diakses di mana saja
 Pembaruan otomatis
 Skalabilitas tinggi
 Kolaborasi real-time
+
+## Section 1.9 Kekurangan SaaS
+Ketergantungan pada koneksi internet
+Risiko kebocoran data
+Batasan dalam kustomisasi
+Potensi gangguan layanan (downtime)
+
+## Section 1.10 Model Bisnis SaaS
+Terdiri dari model:
+Subscription: bayar per bulan/tahun
+Freemium: gratis dengan fitur terbatas
+Pay-per-use: bayar sesuai pemakaian
+
+## Section1.11 Tren dan Inovasi SaaS
+Tren terbaru mencakup integrasi AI, analitik data, SaaS vertikal untuk sektor spesifik (pendidikan, kesehatan, keuangan), serta peningkatan keamanan berbasis cloud.
+
+## Section1.12 Kesimpulan
+SaaS merupakan solusi perangkat lunak modern yang efisien, fleksibel, dan mudah diakses. Dengan perkembangan teknologi cloud dan AI, SaaS akan terus menjadi tulang punggung digitalisasi global di masa depan.
