@@ -9,3 +9,24 @@ SaaS berawal dari konsep Application Service Provider (ASP) tahun 1990-an dan be
 
 ## Section 1.4 Tujuan dan Manfaat SaaS
 Tujuannya adalah memudahkan akses perangkat lunak tanpa instalasi dan biaya besar. Manfaatnya mencakup efisiensi biaya, fleksibilitas penggunaan, serta kemudahan pembaruan otomatis.
+
+## Section 1.5 Arsitektur SaaS
+Menggunakan arsitektur multi-tenant, di mana banyak pengguna berbagi aplikasi yang sama dengan data yang terpisah. Infrastruktur berbasis cloud menjamin skalabilitas dan keamanan data.
+
+## Section 1.6 Cara Kerja SaaS
+Aplikasi SaaS di-host di server penyedia, diakses melalui browser, dan diperbarui otomatis. Pengguna cukup login dan berlangganan tanpa perlu mengelola sistem atau server.
+
+## Section 1.7 Contoh Aplikasi SaaS
+Beberapa contoh populer:
+Google Workspace (produktivitas)
+Microsoft 365 (perkantoran)
+Zoom (komunikasi)
+Salesforce (bisnis)
+Canva (desain grafis)
+
+## Section 1.8 Kelebihan SaaS
+Hemat biaya infrastruktur
+Mudah diakses di mana saja
+Pembaruan otomatis
+Skalabilitas tinggi
+Kolaborasi real-time
